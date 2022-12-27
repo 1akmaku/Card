@@ -1,0 +1,26 @@
+*
+{
+    line-height: normal;
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+.card1
+{
+    min-height:100vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h4
+{
+    
+    margin:10px;
+}
+
+
+
+
